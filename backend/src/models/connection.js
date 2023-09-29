@@ -6,7 +6,7 @@ console.log(process.env.MYSQL_USER);
 console.log(process.env.MYSQL_PASSWORD);
 console.log(process.env.MYSQL_DB);
 
-//TODO
+//TODO k
 const connection = mysql.createPool({
     host: 'localhost',
     user: 'root',
